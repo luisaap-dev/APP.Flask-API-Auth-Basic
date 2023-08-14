@@ -8,7 +8,7 @@ Esta es una API simple construida utilizando Flask para administrar clientes y a
 2. Crea un entorno virtual (opcional pero recomendado).
 3. Instala las dependencias utilizando `pip install -r requirements.txt`.
 4. Configura la base de datos en el archivo `config.py`.
-5. Ejecuta la aplicación con `python app.py`.
+5. Ejecuta la aplicación con `python app_api.py`.
 
 ## Rutas / ## Endpoints
 

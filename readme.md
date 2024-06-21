@@ -179,3 +179,4 @@ Luis Ares - [Perfil de GitHub](https://github.com/luisaap-dev)
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+
